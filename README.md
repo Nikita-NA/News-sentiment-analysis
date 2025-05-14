@@ -47,6 +47,13 @@ streamlit run app.py
    - Listen to each summary using the audio player
    - Use the "Clear History" button in the sidebar to reset the app
 
+## App Screenshot
+
+Here's a preview of the News Sentiment Analysis App:
+
+### 🗺️ Example
+![Generated summary and sentiment analysis](images/s1.jpg)
+
 ## Output Format
 
 The application provides:
